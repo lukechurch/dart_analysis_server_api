@@ -1,7 +1,9 @@
-# dart_analysis_server_public_api
+# sample
 
-Placeholder repo for serving the API extracted from analysis server.
+A library for Dart developers. It is awesome.
 
-Do not depend on this repo, it may not be here for long.
+## Features and bugs
 
-Thanks.
+Please file feature requests and bugs at the [issue tracker][tracker].
+
+[tracker]: https://github.com/dart-lang/sample/issues
