@@ -1,4 +1,4 @@
-name: sample
+name: dart_analysis_server_api
 version: 0.0.1
 description: A sample library.
 author: Dart Team <misc@dartlang.org>
