@@ -1,4 +1,4 @@
-# dart_analysis_server_public_api
+# dart_analysis_server_api
 
 Placeholder repo for serving the API extracted from analysis server.
 
